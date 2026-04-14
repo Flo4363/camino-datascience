@@ -55,44 +55,27 @@ camino-datascience/
 
 ## Notebooks roadmap
 
-### NB00 — Data audit & acquisition 
-- Inventory of all data sources
-- Classification: freely available / requires contact / likely inaccessible
-- Contact log for institutional data requests (AFCC, USC/CETUR, Xunta de Galice, Départements, UTMB)
+### NB00 — Data audit & acquisition ✅ Complete
+- Inventory of all data sources (Tier 1 / Tier 2 / Tier 3)
+- Institutional contact log (AFCC, Xunta de Galice, USC/CETUR, Wikiloc, UTMB)
+- Contact email templates (FR + EN)
 - Repository setup and conventions
 
-### NB01 — Data collection
-- Scraping/downloading Oficina del Peregrino PDFs (2003–2025)
-- ERA5 climate data extraction by route corridor
-- Google Trends series by country and language
-- SJPDP statistics (Saint-Jean-Pied-de-Port)
-- Trail du Saint-Jacques finisher data (LiveTrail, 2012–2024)
-- Media event database (manual construction)
+### NB01 — Data collection ✅ Complete
+- **Section 1** — Google Trends: digital visibility index, 9 countries, 2004–2024
+- **Section 2** — Oficina del Peregrino: annual totals, routes, nationalities (PDF 2004–2018 + manual 2019–2024)
+- **Section 3** — Trail du Saint-Jacques by UTMB: finisher data, 11 editions (2013–2024)
+- **Section 4** — ERA5 Climate: monthly temperature + precipitation, 5 route corridors, 2004–2024
 
-### NB02 — Exploratory data analysis
-- Long time-series visualisation
-- Structural break detection (COVID, Holy Years)
-- Initial correlations between contextual features and flows
-- Axis validation or invalidation
+### NB02 — Exploratory data analysis 🔲 Next
+- Long time-series visualisation across all sources
+- Structural break detection (COVID, Holy Years, UTMB integration)
+- Cross-source correlation analysis
+- Axis A/B/C/D hypothesis validation or invalidation
 
-### NB03 — Feature engineering
-- Composite climate index per route and season
-- Lag variables for media effect (6, 12, 18-month windows)
-- Saturation indicator (Francés/total ratio)
-- Binary/graduated crisis variables
-- Digital visibility index (YouTube, Google Trends, trail signal)
-
-### NB04 — Modelling
-- Global interpretable model (LightGBM + SHAP) for feature ranking
-- Axis-specific models
-- Time-series component (Prophet / SARIMA) for predictive dimension
-- Evaluation: MAE, RMSE, feature importance
-
-### NB05 — Interpretation & dissemination
-- SHAP value narrative
-- Geospatial visualisations (flow maps by route)
-- Limitations and bias documentation (Compostela-only bias, pre-2003 gaps)
-- Operational recommendations for stakeholders
+### NB03 — Feature engineering 🔲 Pending
+### NB04 — Modelling 🔲 Pending
+### NB05 — Interpretation & dissemination 🔲 Pending
 
 ---
 
