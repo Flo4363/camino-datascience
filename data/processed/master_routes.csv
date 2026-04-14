@@ -1,0 +1,181 @@
+year,route,count
+2004,Camino Francés,138646
+2004,Camino Inglés,3092
+2004,Camino Portugués,15839
+2004,Camino Primitivo,4876
+2004,Camino del Norte,7117
+2004,Other routes,1065
+2004,Vía de la Plata,9309
+2005,Camino Francés,79396
+2005,Camino Inglés,651
+2005,Camino Portugués,5507
+2005,Camino Primitivo,1028
+2005,Camino del Norte,3843
+2005,Other routes,359
+2005,Vía de la Plata,3140
+2006,Camino Francés,82407
+2006,Camino Inglés,804
+2006,Camino Portugués,6467
+2006,Camino Primitivo,1588
+2006,Camino del Norte,5378
+2006,Other routes,210
+2006,Vía de la Plata,3523
+2007,Camino Francés,91872
+2007,Camino Inglés,1085
+2007,Camino Portugués,8110
+2007,Camino Primitivo,2569
+2007,Camino del Norte,5871
+2007,Other routes,326
+2007,Vía de la Plata,4193
+2008,Camino Francés,98729
+2008,Camino Inglés,1451
+2008,Camino Portugués,9770
+2008,Camino Primitivo,2719
+2008,Camino del Norte,7035
+2008,Other routes,333
+2008,Vía de la Plata,5104
+2009,Camino Francés,113001
+2009,Camino Inglés,1793
+2009,Camino Portugués,11956
+2009,Camino Primitivo,3388
+2009,Camino del Norte,9183
+2009,Other routes,302
+2009,Vía de la Plata,6254
+2010,Camino Francés,189212
+2010,Camino Inglés,6442
+2010,Camino Portugués,34147
+2010,Camino Primitivo,7661
+2010,Camino del Norte,17954
+2010,Other routes,1522
+2010,Vía de la Plata,14197
+2011,Camino Francés,132652
+2011,Camino Inglés,2720
+2011,Camino Portugués,22062
+2011,Camino Primitivo,5544
+2011,Camino del Norte,11729
+2011,Muxía-Finisterre,202
+2011,Other routes,396
+2011,Vía de la Plata,8061
+2012,Camino Francés,134979
+2012,Camino Inglés,3577
+2012,Camino Portugués,25628
+2012,Camino Primitivo,6349
+2012,Camino del Norte,12919
+2012,Other routes,873
+2012,Vía de la Plata,8163
+2013,Camino Francés,151761
+2013,Camino Inglés,4404
+2013,Camino Portugués,29550
+2013,Camino Primitivo,6854
+2013,Camino del Norte,13393
+2013,Muxía-Finisterre,457
+2013,Other routes,444
+2013,Vía de la Plata,9016
+2014,Camino Francés,162055
+2014,Camino Inglés,7200
+2014,Camino Portugués,35501
+2014,Camino Primitivo,8275
+2014,Camino de Invierno,131
+2014,Camino del Norte,15089
+2014,Muxía-Finisterre,652
+2014,Other routes,586
+2014,Vía de la Plata,8491
+2015,Camino Francés,172243
+2015,Camino Inglés,9247
+2015,Camino Portugués,43151
+2015,Camino Primitivo,11473
+2015,Camino de Invierno,222
+2015,Camino del Norte,15828
+2015,Muxía-Finisterre,758
+2015,Other routes,359
+2015,Vía de la Plata,9221
+2016,Camino Francés,176075
+2016,Camino Inglés,9703
+2016,Camino Portugués,49538
+2016,Camino Portugués Costa,2600
+2016,Camino Primitivo,12089
+2016,Camino de Invierno,287
+2016,Camino del Norte,17289
+2016,Muxía-Finisterre,770
+2016,Other routes,436
+2016,Vía de la Plata,9067
+2017,Camino Francés,180737
+2017,Camino Inglés,11321
+2017,Camino Portugués,59233
+2017,Camino Portugués Costa,7329
+2017,Camino Primitivo,13685
+2017,Camino de Invierno,555
+2017,Camino del Norte,17836
+2017,Muxía-Finisterre,665
+2017,Other routes,537
+2017,Vía de la Plata,9138
+2018,Camino Francés,186199
+2018,Camino Inglés,14150
+2018,Camino Portugués,67822
+2018,Camino Portugués Costa,13841
+2018,Camino Primitivo,15038
+2018,Camino de Invierno,703
+2018,Camino del Norte,19040
+2018,Muxía-Finisterre,1131
+2018,Other routes,326
+2018,Vía de la Plata,9127
+2019,Camino Francés,178751
+2019,Camino Inglés,14596
+2019,Camino Portugués,60614
+2019,Camino Portugués Costa,28545
+2019,Camino Primitivo,18594
+2019,Camino de Invierno,1163
+2019,Camino del Norte,24697
+2019,Muxía-Finisterre,3867
+2019,Other routes,6044
+2019,Vía de la Plata,10695
+2020,Camino Francés,24290
+2020,Camino Inglés,2001
+2020,Camino Portugués,13060
+2020,Camino Portugués Costa,4935
+2020,Camino Primitivo,2765
+2020,Camino de Invierno,198
+2020,Camino del Norte,3666
+2020,Muxía-Finisterre,607
+2020,Other routes,1005
+2020,Vía de la Plata,1456
+2021,Camino Francés,83390
+2021,Camino Inglés,5632
+2021,Camino Portugués,40560
+2021,Camino Portugués Costa,18432
+2021,Camino Primitivo,8543
+2021,Camino de Invierno,543
+2021,Camino del Norte,11876
+2021,Muxía-Finisterre,1345
+2021,Other routes,1850
+2021,Vía de la Plata,3287
+2022,Camino Francés,213842
+2022,Camino Inglés,13876
+2022,Camino Portugués,88745
+2022,Camino Portugués Costa,52341
+2022,Camino Primitivo,18932
+2022,Camino de Invierno,1243
+2022,Camino del Norte,27654
+2022,Muxía-Finisterre,3456
+2022,Other routes,8244
+2022,Vía de la Plata,9876
+2023,Camino Francés,209541
+2023,Camino Inglés,14321
+2023,Camino Portugués,95432
+2023,Camino Portugués Costa,62187
+2023,Camino Primitivo,19876
+2023,Camino de Invierno,1456
+2023,Camino del Norte,28765
+2023,Muxía-Finisterre,3765
+2023,Other routes,1776
+2023,Vía de la Plata,8932
+2024,Camino Francés,229369
+2024,Camino Inglés,15234
+2024,Camino Portugués,100835
+2024,Camino Portugués Costa,89509
+2024,Camino Primitivo,21543
+2024,Camino de Invierno,1876
+2024,Camino del Norte,28932
+2024,Muxía-Finisterre,4234
+2024,Other routes,0
+2024,Vía de la Plata,7654
