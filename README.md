@@ -55,7 +55,7 @@ camino-datascience/
 
 ## Notebooks roadmap
 
-### NB00 — Data audit & acquisition *(current phase)*
+### NB00 — Data audit & acquisition 
 - Inventory of all data sources
 - Classification: freely available / requires contact / likely inaccessible
 - Contact log for institutional data requests (AFCC, USC/CETUR, Xunta de Galice, Départements, UTMB)
