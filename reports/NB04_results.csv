@@ -1,0 +1,8 @@
+target,n,baseline_R2,ridge_R2,lasso_R2,ridge_vs_base,detrend,features
+share_Camino_Portugues_Costa,10,0.715,0.803,0.657,0.088,True,"trends_FR_lag0_dt, trends_PT_lag2_dt, trail_countries_lag1_dt, deferred_demand, ratio_sequential_dt"
+share_Camino_Frances,19,0.938,0.904,0.896,-0.034,True,"trends_FR_lag0_dt, trends_PT_lag2_dt, ratio_sequential_dt, trends_KR_lag1_dt, phase_regime"
+total_pilgrims,10,0.508,0.841,0.975,0.333,False,"trail_countries_lag1_dt, yoy_growth_lag1, holy_year, deferred_demand, post_covid_regime"
+pct_women,19,0.901,0.888,0.847,-0.013,True,"trends_FR_lag0_dt, trends_KR_lag0_dt, diversity_core_dt, trends_PT_lag2_dt, phase_regime"
+diversity_core,10,0.943,0.99,0.989,0.047,True,"trends_FR_lag0_dt, accessibility_routes_share, trail_countries_lag1_dt, phase_regime"
+share_Via_de_la_Plata,10,0.663,0.897,0.84,0.234,True,"via_podiensis_fr_summer_temp_lag1_dt, accessibility_routes_share, trends_FR_lag0_dt, trail_countries_lag1_dt"
+share_challenge,10,0.236,0.73,0.707,0.494,True,"trail_finishers_lag0_dt, trail_countries_lag1_dt, diversity_core_dt, trends_DE_lag1_dt"
