@@ -57,7 +57,8 @@ camino-datascience/
 
 ### NB00 — Data audit & acquisition ✅ Complete
 - Inventory of all data sources (Tier 1 / Tier 2 / Tier 3)
-- Institutional contact log (AFCC, Xunta de Galice, USC/CETUR, Wikiloc, UTMB)
+- Institutional contact log (AFCC, Xunta de Galice, USC/CETUR, Wikiloc, UTMB,
+  American Pilgrims on the Camino, Confraternity of Saint James, SFASJ)
 - Contact email templates (FR + EN)
 - Repository setup and conventions
 
@@ -67,15 +68,44 @@ camino-datascience/
 - **Section 3** — Trail du Saint-Jacques by UTMB: finisher data, 11 editions (2013–2024)
 - **Section 4** — ERA5 Climate: monthly temperature + precipitation, 5 route corridors, 2004–2024
 
-### NB02 — Exploratory data analysis 🔲 Next
-- Long time-series visualisation across all sources
-- Structural break detection (COVID, Holy Years, UTMB integration)
-- Cross-source correlation analysis
-- Axis A/B/C/D hypothesis validation or invalidation
+### NB02 — Exploratory Data Analysis ✅ Complete
+- Cross-source dashboard across all collected signals (2004–2024)
+- Structural break detection — PELT algorithm (Holy Years, COVID, UTMB integration)
+- Cross-source correlation analysis — Pearson lag=0 and lagged (lag 1–2)
+- Axis A/B/C/D hypothesis validation — all-routes approach
 
-### NB03 — Feature engineering 🔲 Pending
+### NB02b — Behavioral & Sociological Framework ✅ Complete
+- Three pilgrim sociological profiles (Traditional, Secular Seeker, Athletic-Cultural)
+- Route behavioral clusters (Challenge / Accessibility / Canonical)
+- Structural socio-economic drivers (post-materialism, demographics, low-cost aviation)
+- Key behavioral confounds (staged pilgrimage, double counting, COVID decomposition)
+- Qualitative sources inventory → `data/qualitative/sources_log.md`
+
+### NB03 — Feature engineering 🔲 Next
+- Construction of 22 candidate features across 4 axes
+- Detrending and lag engineering
+- Feature matrix validation
+
 ### NB04 — Modelling 🔲 Pending
+- Route share and total pilgrim prediction
+- Time-series cross-validation
+- Model interpretation and behavioral triangulation
+
 ### NB05 — Interpretation & dissemination 🔲 Pending
+- Quantitative / qualitative triangulation
+- Limitations and known confounds
+- Research conclusions
+
+---
+
+## Methodological approach
+
+This project combines quantitative time-series analysis with a
+behavioral and sociological interpretive framework (NB02b).
+Quantitative findings are systematically triangulated against
+pilgrim motivation research, anthropological theory, and
+qualitative institutional surveys documented in
+`data/qualitative/sources_log.md`.
 
 ---
 
