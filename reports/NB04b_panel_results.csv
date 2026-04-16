@@ -1,0 +1,4 @@
+model,r2,adj_r2,n,design
+M1_climate,0.8387253559877059,0.8276980299013952,126,route_FE + temp_anomaly + phase_regime
+M2_did_covid,0.7754750499643304,0.7538103618029938,126,route_FE + during/post_covid x route_type
+M3_system,0.8646305863019044,0.850031924040345,114,route_FE + trends_PT + trends_FR + holy_year + deferred + phase
