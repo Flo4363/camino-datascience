@@ -1,0 +1,145 @@
+﻿annee,mois,voie_id,nom_voie,volume_pelerins,est_capte_sjpp,source,climat_moyen,index_fiabilite
+2022,1,FR-PUY,Via Podiensis,57,True,ACIR/SJPP,Froid,0.95
+2022,2,FR-PUY,Via Podiensis,301,True,ACIR/SJPP,Froid,0.95
+2022,3,FR-PUY,Via Podiensis,820,True,ACIR/SJPP,Tempéré,0.95
+2022,4,FR-PUY,Via Podiensis,1808,True,ACIR/SJPP,Tempéré,0.95
+2022,5,FR-PUY,Via Podiensis,2971,True,ACIR/SJPP,Chaud,0.95
+2022,6,FR-PUY,Via Podiensis,2228,True,ACIR/SJPP,Chaud,0.95
+2022,7,FR-PUY,Via Podiensis,2258,True,ACIR/SJPP,Chaud,0.95
+2022,8,FR-PUY,Via Podiensis,2216,True,ACIR/SJPP,Chaud,0.95
+2022,9,FR-PUY,Via Podiensis,2841,True,ACIR/SJPP,Chaud,0.95
+2022,10,FR-PUY,Via Podiensis,1832,True,ACIR/SJPP,Tempéré,0.95
+2022,11,FR-PUY,Via Podiensis,955,True,ACIR/SJPP,Froid,0.95
+2022,12,FR-PUY,Via Podiensis,283,True,ACIR/SJPP,Froid,0.95
+2023,1,FR-PUY,Via Podiensis,61,True,ACIR/SJPP,Froid,0.95
+2023,2,FR-PUY,Via Podiensis,320,True,ACIR/SJPP,Froid,0.95
+2023,3,FR-PUY,Via Podiensis,1175,True,ACIR/SJPP,Tempéré,0.95
+2023,4,FR-PUY,Via Podiensis,2105,True,ACIR/SJPP,Tempéré,0.95
+2023,5,FR-PUY,Via Podiensis,2648,True,ACIR/SJPP,Chaud,0.95
+2023,6,FR-PUY,Via Podiensis,2387,True,ACIR/SJPP,Chaud,0.95
+2023,7,FR-PUY,Via Podiensis,2179,True,ACIR/SJPP,Chaud,0.95
+2023,8,FR-PUY,Via Podiensis,2850,True,ACIR/SJPP,Chaud,0.95
+2023,9,FR-PUY,Via Podiensis,3323,True,ACIR/SJPP,Chaud,0.95
+2023,10,FR-PUY,Via Podiensis,1772,True,ACIR/SJPP,Tempéré,0.95
+2023,11,FR-PUY,Via Podiensis,835,True,ACIR/SJPP,Froid,0.95
+2023,12,FR-PUY,Via Podiensis,238,True,ACIR/SJPP,Froid,0.95
+2024,1,FR-PUY,Via Podiensis,60,True,ACIR/SJPP,Froid,0.95
+2024,2,FR-PUY,Via Podiensis,248,True,ACIR/SJPP,Froid,0.95
+2024,3,FR-PUY,Via Podiensis,946,True,ACIR/SJPP,Tempéré,0.95
+2024,4,FR-PUY,Via Podiensis,2393,True,ACIR/SJPP,Tempéré,0.95
+2024,5,FR-PUY,Via Podiensis,2575,True,ACIR/SJPP,Chaud,0.95
+2024,6,FR-PUY,Via Podiensis,2433,True,ACIR/SJPP,Chaud,0.95
+2024,7,FR-PUY,Via Podiensis,2069,True,ACIR/SJPP,Chaud,0.95
+2024,8,FR-PUY,Via Podiensis,2263,True,ACIR/SJPP,Chaud,0.95
+2024,9,FR-PUY,Via Podiensis,3070,True,ACIR/SJPP,Chaud,0.95
+2024,10,FR-PUY,Via Podiensis,2396,True,ACIR/SJPP,Tempéré,0.95
+2024,11,FR-PUY,Via Podiensis,902,True,ACIR/SJPP,Froid,0.95
+2024,12,FR-PUY,Via Podiensis,370,True,ACIR/SJPP,Froid,0.95
+2022,1,FR-ARL,Via Tolosana,4,False,ACIR/Somport,Froid,0.75
+2022,2,FR-ARL,Via Tolosana,27,False,ACIR/Somport,Froid,0.75
+2022,3,FR-ARL,Via Tolosana,112,False,ACIR/Somport,Tempéré,0.75
+2022,4,FR-ARL,Via Tolosana,207,False,ACIR/Somport,Tempéré,0.75
+2022,5,FR-ARL,Via Tolosana,253,False,ACIR/Somport,Chaud,0.75
+2022,6,FR-ARL,Via Tolosana,265,False,ACIR/Somport,Chaud,0.75
+2022,7,FR-ARL,Via Tolosana,200,False,ACIR/Somport,Chaud,0.75
+2022,8,FR-ARL,Via Tolosana,270,False,ACIR/Somport,Chaud,0.75
+2022,9,FR-ARL,Via Tolosana,254,False,ACIR/Somport,Chaud,0.75
+2022,10,FR-ARL,Via Tolosana,211,False,ACIR/Somport,Tempéré,0.75
+2022,11,FR-ARL,Via Tolosana,116,False,ACIR/Somport,Froid,0.75
+2022,12,FR-ARL,Via Tolosana,30,False,ACIR/Somport,Froid,0.75
+2023,1,FR-ARL,Via Tolosana,4,False,ACIR/Somport,Froid,0.75
+2023,2,FR-ARL,Via Tolosana,30,False,ACIR/Somport,Froid,0.75
+2023,3,FR-ARL,Via Tolosana,105,False,ACIR/Somport,Tempéré,0.75
+2023,4,FR-ARL,Via Tolosana,199,False,ACIR/Somport,Tempéré,0.75
+2023,5,FR-ARL,Via Tolosana,243,False,ACIR/Somport,Chaud,0.75
+2023,6,FR-ARL,Via Tolosana,205,False,ACIR/Somport,Chaud,0.75
+2023,7,FR-ARL,Via Tolosana,194,False,ACIR/Somport,Chaud,0.75
+2023,8,FR-ARL,Via Tolosana,224,False,ACIR/Somport,Chaud,0.75
+2023,9,FR-ARL,Via Tolosana,292,False,ACIR/Somport,Chaud,0.75
+2023,10,FR-ARL,Via Tolosana,202,False,ACIR/Somport,Tempéré,0.75
+2023,11,FR-ARL,Via Tolosana,83,False,ACIR/Somport,Froid,0.75
+2023,12,FR-ARL,Via Tolosana,34,False,ACIR/Somport,Froid,0.75
+2024,1,FR-ARL,Via Tolosana,5,False,ACIR/Somport,Froid,0.75
+2024,2,FR-ARL,Via Tolosana,26,False,ACIR/Somport,Froid,0.75
+2024,3,FR-ARL,Via Tolosana,118,False,ACIR/Somport,Tempéré,0.75
+2024,4,FR-ARL,Via Tolosana,242,False,ACIR/Somport,Tempéré,0.75
+2024,5,FR-ARL,Via Tolosana,282,False,ACIR/Somport,Chaud,0.75
+2024,6,FR-ARL,Via Tolosana,240,False,ACIR/Somport,Chaud,0.75
+2024,7,FR-ARL,Via Tolosana,196,False,ACIR/Somport,Chaud,0.75
+2024,8,FR-ARL,Via Tolosana,301,False,ACIR/Somport,Chaud,0.75
+2024,9,FR-ARL,Via Tolosana,280,False,ACIR/Somport,Chaud,0.75
+2024,10,FR-ARL,Via Tolosana,243,False,ACIR/Somport,Tempéré,0.75
+2024,11,FR-ARL,Via Tolosana,125,False,ACIR/Somport,Froid,0.75
+2024,12,FR-ARL,Via Tolosana,25,False,ACIR/Somport,Froid,0.75
+2022,1,ES-ARA,Camino Aragonés,4,False,FEAACS/Jaca,Froid,0.75
+2022,2,ES-ARA,Camino Aragonés,21,False,FEAACS/Jaca,Froid,0.75
+2022,3,ES-ARA,Camino Aragonés,77,False,FEAACS/Jaca,Tempéré,0.75
+2022,4,ES-ARA,Camino Aragonés,155,False,FEAACS/Jaca,Tempéré,0.75
+2022,5,ES-ARA,Camino Aragonés,210,False,FEAACS/Jaca,Chaud,0.75
+2022,6,ES-ARA,Camino Aragonés,186,False,FEAACS/Jaca,Chaud,0.75
+2022,7,ES-ARA,Camino Aragonés,196,False,FEAACS/Jaca,Chaud,0.75
+2022,8,ES-ARA,Camino Aragonés,167,False,FEAACS/Jaca,Chaud,0.75
+2022,9,ES-ARA,Camino Aragonés,223,False,FEAACS/Jaca,Chaud,0.75
+2022,10,ES-ARA,Camino Aragonés,182,False,FEAACS/Jaca,Tempéré,0.75
+2022,11,ES-ARA,Camino Aragonés,87,False,FEAACS/Jaca,Froid,0.75
+2022,12,ES-ARA,Camino Aragonés,28,False,FEAACS/Jaca,Froid,0.75
+2023,1,ES-ARA,Camino Aragonés,5,False,FEAACS/Jaca,Froid,0.75
+2023,2,ES-ARA,Camino Aragonés,25,False,FEAACS/Jaca,Froid,0.75
+2023,3,ES-ARA,Camino Aragonés,100,False,FEAACS/Jaca,Tempéré,0.75
+2023,4,ES-ARA,Camino Aragonés,170,False,FEAACS/Jaca,Tempéré,0.75
+2023,5,ES-ARA,Camino Aragonés,250,False,FEAACS/Jaca,Chaud,0.75
+2023,6,ES-ARA,Camino Aragonés,220,False,FEAACS/Jaca,Chaud,0.75
+2023,7,ES-ARA,Camino Aragonés,165,False,FEAACS/Jaca,Chaud,0.75
+2023,8,ES-ARA,Camino Aragonés,210,False,FEAACS/Jaca,Chaud,0.75
+2023,9,ES-ARA,Camino Aragonés,203,False,FEAACS/Jaca,Chaud,0.75
+2023,10,ES-ARA,Camino Aragonés,206,False,FEAACS/Jaca,Tempéré,0.75
+2023,11,ES-ARA,Camino Aragonés,94,False,FEAACS/Jaca,Froid,0.75
+2023,12,ES-ARA,Camino Aragonés,24,False,FEAACS/Jaca,Froid,0.75
+2024,1,ES-ARA,Camino Aragonés,4,False,FEAACS/Jaca,Froid,0.75
+2024,2,ES-ARA,Camino Aragonés,30,False,FEAACS/Jaca,Froid,0.75
+2024,3,ES-ARA,Camino Aragonés,109,False,FEAACS/Jaca,Tempéré,0.75
+2024,4,ES-ARA,Camino Aragonés,216,False,FEAACS/Jaca,Tempéré,0.75
+2024,5,ES-ARA,Camino Aragonés,284,False,FEAACS/Jaca,Chaud,0.75
+2024,6,ES-ARA,Camino Aragonés,203,False,FEAACS/Jaca,Chaud,0.75
+2024,7,ES-ARA,Camino Aragonés,195,False,FEAACS/Jaca,Chaud,0.75
+2024,8,ES-ARA,Camino Aragonés,205,False,FEAACS/Jaca,Chaud,0.75
+2024,9,ES-ARA,Camino Aragonés,223,False,FEAACS/Jaca,Chaud,0.75
+2024,10,ES-ARA,Camino Aragonés,214,False,FEAACS/Jaca,Tempéré,0.75
+2024,11,ES-ARA,Camino Aragonés,79,False,FEAACS/Jaca,Froid,0.75
+2024,12,ES-ARA,Camino Aragonés,31,False,FEAACS/Jaca,Froid,0.75
+2022,1,ES-FRA,Camino Francés (SJPP start),81,True,Oficina Santiago,Froid,0.95
+2022,2,ES-FRA,Camino Francés (SJPP start),420,True,Oficina Santiago,Froid,0.95
+2022,3,ES-FRA,Camino Francés (SJPP start),1911,True,Oficina Santiago,Tempéré,0.95
+2022,4,ES-FRA,Camino Francés (SJPP start),3581,True,Oficina Santiago,Tempéré,0.95
+2022,5,ES-FRA,Camino Francés (SJPP start),3811,True,Oficina Santiago,Chaud,0.95
+2022,6,ES-FRA,Camino Francés (SJPP start),4817,True,Oficina Santiago,Chaud,0.95
+2022,7,ES-FRA,Camino Francés (SJPP start),3016,True,Oficina Santiago,Chaud,0.95
+2022,8,ES-FRA,Camino Francés (SJPP start),3857,True,Oficina Santiago,Chaud,0.95
+2022,9,ES-FRA,Camino Francés (SJPP start),4459,True,Oficina Santiago,Chaud,0.95
+2022,10,ES-FRA,Camino Francés (SJPP start),3238,True,Oficina Santiago,Tempéré,0.95
+2022,11,ES-FRA,Camino Francés (SJPP start),1592,True,Oficina Santiago,Froid,0.95
+2022,12,ES-FRA,Camino Francés (SJPP start),525,True,Oficina Santiago,Froid,0.95
+2023,1,ES-FRA,Camino Francés (SJPP start),79,True,Oficina Santiago,Froid,0.95
+2023,2,ES-FRA,Camino Francés (SJPP start),409,True,Oficina Santiago,Froid,0.95
+2023,3,ES-FRA,Camino Francés (SJPP start),2100,True,Oficina Santiago,Tempéré,0.95
+2023,4,ES-FRA,Camino Francés (SJPP start),3377,True,Oficina Santiago,Tempéré,0.95
+2023,5,ES-FRA,Camino Francés (SJPP start),3969,True,Oficina Santiago,Chaud,0.95
+2023,6,ES-FRA,Camino Francés (SJPP start),4255,True,Oficina Santiago,Chaud,0.95
+2023,7,ES-FRA,Camino Francés (SJPP start),3628,True,Oficina Santiago,Chaud,0.95
+2023,8,ES-FRA,Camino Francés (SJPP start),4406,True,Oficina Santiago,Chaud,0.95
+2023,9,ES-FRA,Camino Francés (SJPP start),4933,True,Oficina Santiago,Chaud,0.95
+2023,10,ES-FRA,Camino Francés (SJPP start),3980,True,Oficina Santiago,Tempéré,0.95
+2023,11,ES-FRA,Camino Francés (SJPP start),1689,True,Oficina Santiago,Froid,0.95
+2023,12,ES-FRA,Camino Francés (SJPP start),530,True,Oficina Santiago,Froid,0.95
+2024,1,ES-FRA,Camino Francés (SJPP start),97,True,Oficina Santiago,Froid,0.95
+2024,2,ES-FRA,Camino Francés (SJPP start),453,True,Oficina Santiago,Froid,0.95
+2024,3,ES-FRA,Camino Francés (SJPP start),1515,True,Oficina Santiago,Tempéré,0.95
+2024,4,ES-FRA,Camino Francés (SJPP start),3828,True,Oficina Santiago,Tempéré,0.95
+2024,5,ES-FRA,Camino Francés (SJPP start),5678,True,Oficina Santiago,Chaud,0.95
+2024,6,ES-FRA,Camino Francés (SJPP start),4788,True,Oficina Santiago,Chaud,0.95
+2024,7,ES-FRA,Camino Francés (SJPP start),3979,True,Oficina Santiago,Chaud,0.95
+2024,8,ES-FRA,Camino Francés (SJPP start),4362,True,Oficina Santiago,Chaud,0.95
+2024,9,ES-FRA,Camino Francés (SJPP start),5455,True,Oficina Santiago,Chaud,0.95
+2024,10,ES-FRA,Camino Francés (SJPP start),4306,True,Oficina Santiago,Tempéré,0.95
+2024,11,ES-FRA,Camino Francés (SJPP start),2166,True,Oficina Santiago,Froid,0.95
+2024,12,ES-FRA,Camino Francés (SJPP start),490,True,Oficina Santiago,Froid,0.95

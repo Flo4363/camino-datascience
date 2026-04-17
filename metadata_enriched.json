@@ -1,0 +1,10 @@
+{
+    "project": "Analyse Granulaire des Flux Jacquaires",
+    "total_records": 144,
+    "features": {
+        "volume_pelerins": "Nombre de pèlerins détectés sur le mois",
+        "index_fiabilite": "Coefficient de confiance (0-1) basé sur la méthode de collecte (systématique vs déclarative)",
+        "saisonnalite": "Modélisée sur les flux historiques réels (pics printaniers et automnaux)"
+    },
+    "note_analytique": "Le volume 'Arles' vs 'Aragonés' permet de mesurer la déperdition au passage de la frontière (Somport)."
+}

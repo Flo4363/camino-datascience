@@ -1,0 +1,34 @@
+{
+    "project": "Analyse des flux du chemin de Saint-Jacques - Correction du biais SJPP",
+    "version": "1.0",
+    "last_updated": "2024-05",
+    "description": "Dataset consolidé visant à intégrer la part de la Voie d'Arles (Somport) souvent omise dans les statistiques de Saint-Jean-Pied-de-Port.",
+    "methodology": "Agrégation de données hétérogènes. La part de la voie d'Arles est isolée via les registres de Jaca et le différentiel à Puente la Reina.",
+    "sources": [
+        {
+            "nom": "ACIR Compostelle (Toulouse)",
+            "description": "Observatoire de la fréquentation des voies françaises (Le Puy, Arles, Vézelay, Tours).",
+            "url": "https://www.compostelle-france.fr"
+        },
+        {
+            "nom": "Bureau des Pèlerins de SJPP",
+            "description": "Données de passage direct au point de départ majeur du Camino Francés.",
+            "url": "https://www.pelerinage-saint-jacques-compostelle.com"
+        },
+        {
+            "nom": "FEAACS (Federación Española)",
+            "description": "Statistiques des nuitées dans les albergues du Camino Aragonés.",
+            "url": "https://www.caminosantiago.org"
+        },
+        {
+            "nom": "Oficina de Acogida al Peregrino (Santiago)",
+            "description": "Données officielles de délivrance de la Compostela (point final).",
+            "url": "https://oficinadelperegrino.com"
+        }
+    ],
+    "columns_definition": {
+        "volume_annuel_moyen": "Nombre estimé de pèlerins par an franchissant le point statistique cité.",
+        "capte_par_sjpp": "Indique si le pèlerin est comptabilisé dans les stats officielles de Saint-Jean-Pied-de-Port.",
+        "part_flux_santiago_pct": "Pourcentage de pèlerins sur cette voie par rapport au total mondial arrivant à Saint-Jacques (env. 440k+)."
+    }
+}

@@ -1,0 +1,7 @@
+﻿voie_id,nom_voie,point_statistique,volume_annuel_moyen,part_flux_santiago_pct,capte_par_sjpp,point_jonction_final,source_primaire
+FR-PUY,Via Podiensis (Le Puy),Saint-Jean-Pied-de-Port,32000,7.5,True,SJPP,ACIR/SJPP
+FR-VEZ,Via Lemovicensis (Vézelay),Saint-Jean-Pied-de-Port,8500,2.0,True,SJPP,ACIR/SJPP
+FR-TOU,Via Turonensis (Tours),Saint-Jean-Pied-de-Port,4500,1.0,True,SJPP,ACIR/SJPP
+FR-ARL,Via Tolosana (Arles),Col du Somport / Jaca,3200,0.7,False,Puente la Reina,ACIR/Somport
+ES-ARA,Camino Aragonés (Suite Arles),Jaca / Sangüesa,2850,0.6,False,Puente la Reina,FEAACS/Jaca
+ES-FRA,Camino Francés (Tronc Commun),Saint-Jean-Pied-de-Port,55000,13.0,True,N/A,Oficina Santiago
